@@ -21,9 +21,11 @@ Sample Input
 
 ABCDCDC
 CDC
+
 Sample Output
 
 2
+
 Concept
 
 Some string processing examples, such as these, might be useful.
